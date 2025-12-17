@@ -108,11 +108,4 @@ In order to deploy the Homelun CMS, we are utilizing two powerful platforms: Net
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div>
 
-## ✍️ Authors <a name = "authors"></a>
 
-- [@MiladSadeghi](https://github.com/MiladSadeghi) - MiladSadeghi
-
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- thanks <a href="https://www.vektora.studio/">Vektora Studio</a> for design
